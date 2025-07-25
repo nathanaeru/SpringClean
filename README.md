@@ -12,7 +12,7 @@ A new best friend for your messy Downloads folder! (or literally any other folde
 
 **Currently only Windows systems are supported**
 
-* On the [Releases](https://github.com/nathanaeru/SpringClean/releases) page, download the SpringClean-win.zip file.
+* On the [Releases](https://github.com/nathanaeru/SpringClean/releases) page, download the SpringClean.zip file.
 * Extract to your desired folder.
 * Run the SpringClean.exe file and now you're good to go!
 
@@ -22,3 +22,9 @@ A new best friend for your messy Downloads folder! (or literally any other folde
 * [darkdetect](https://pypi.org/project/darkdetect/)
 * [sv-ttk](https://pypi.org/project/sv-ttk/)
 * [pywinstyles](https://pypi.org/project/pywinstyles/)
+
+## Screenshots
+
+![](screenshot/Light.png)
+
+![](screenshot/Dark.png)
