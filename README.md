@@ -22,6 +22,7 @@ A new best friend for your messy Downloads folder! (or literally any other folde
 * [darkdetect](https://pypi.org/project/darkdetect/)
 * [sv-ttk](https://pypi.org/project/sv-ttk/)
 * [pywinstyles](https://pypi.org/project/pywinstyles/)
+* [pyinstaller](https://pypi.org/project/pyinstaller/)
 
 ## Screenshots
 
