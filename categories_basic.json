@@ -1,0 +1,10 @@
+{
+    "DOCUMENTS": [".pdf", ".doc", ".docx", ".txt", ".rtf"],
+    "SPREADSHEETS": [".xls", ".xlsx", ".csv"],
+    "PRESENTATIONS": [".ppt", ".pptx"],
+    "IMAGES": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
+    "VIDEOS": [".mp4", ".avi", ".mkv", ".mov", ".wmv"],
+    "AUDIO": [".mp3", ".wav", ".m4a", ".wma"],
+    "PROGRAMS": [".exe", ".msi"],
+    "COMPRESSED": [".zip", ".rar", ".7z"]
+}
