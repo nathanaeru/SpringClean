@@ -44,6 +44,7 @@ Or make your own JSON config file and load it on the settings page.
 * [darkdetect](https://pypi.org/project/darkdetect/)
 * [sv-ttk](https://pypi.org/project/sv-ttk/)
 * [pywinstyles](https://pypi.org/project/pywinstyles/)
+* [pyinstaller](https://pypi.org/project/pyinstaller/)
 * This is my first real-world project published, credit to Github Copilot for guiding me to build this program.
 
 ## Screenshots
